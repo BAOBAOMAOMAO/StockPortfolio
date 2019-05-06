@@ -1,4 +1,4 @@
-# stockPortfolio
+# Stock Portfolio
 
 ## Add First Version
 TBA
