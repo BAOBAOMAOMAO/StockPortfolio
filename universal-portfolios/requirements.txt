@@ -1,7 +1,0 @@
-pandas==0.22.0
-cvxopt
-scipy
-matplotlib
-pandas-datareader
-statsmodels
-scikit-learn
